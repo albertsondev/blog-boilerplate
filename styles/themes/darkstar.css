@@ -1,0 +1,15 @@
+:root {
+  --fg-main: #DDDDDD;
+  --fg-defocus: #A0A0A0;
+  
+  --bg-main: #080808;
+  --bg-focus: #222222;
+  
+  --accent-main: #B080D0;
+  --accent-focus: #B000FF;
+  --accent-defocus: #8058A0;
+
+  --font-family: "Source Code Pro",  monospace;
+  --font-size: 14px;
+  --line-height: 1;
+}
